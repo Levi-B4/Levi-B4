@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and app developement
-- 🔭 I’m currently working on [Event-Organizer](https://github.com/Levi-B4/Event-Organizer) and [Hyperhedrons](https://github.com/Hyperhydras/Hyperhedrons)
+- 🔭 I’m currently working on [Client-Organizer](https://github.com/Levi-B4/Client-Organizer) and [Hyperhedrons](https://github.com/Hyperhydras/Hyperhedrons)
 - 🌱 I’m currently learning figma & react three fiber.js
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: levi44b@gmail.com
@@ -27,8 +27,8 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
 </div>
 
 <p align="center">
-     <a href="https://github.com/Levi-B4/Event-Organizer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Event-Organizer&theme=radical" />
+     <a href="https://github.com/Levi-B4/Client-Organizer">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Client-Organizer&theme=radical" />
      </a>
      <a href="https://github.com/Hyperhydras/Hyperhedrons">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperhydras&repo=Hyperhedrons&theme=radical" />
