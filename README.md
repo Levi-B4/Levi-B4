@@ -24,21 +24,21 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
 -->
 <div align="center"><!---delete this once Linkedin is addded-->
   <a href="https://github.com/Levi-B4/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Levi-B4&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Levi's github stats"/></center>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Levi-B4&show_icons=true&include_all_commits=true&count_private=true&theme=aura" alt="Levi's github stats"/></center>
   </a>
 </div>
 
 <p align="center">
      <a href="https://github.com/Levi-B4/Client-Organizer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Client-Organizer&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Client-Organizer&theme=aura" />
      </a>
      <a href="https://github.com/Hyperhydras/Hyperhedrons">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperhydras&repo=Hyperhedrons&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Hyperhydras&repo=Hyperhedrons&theme=aura" />
      </a>
      <a href="https://github.com/Levi-B4/Simple-Calculator">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Simple-Calculator&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Simple-Calculator&theme=aura" />
      </a>
      <a href="https://github.com/Levi-B4/RTS-Game-Handler">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=radical" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=aura" />
      </a> 
 </p
