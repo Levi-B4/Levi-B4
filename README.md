@@ -36,7 +36,7 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
      <a href="https://github.com/Levi-B4/Software1-Knowledge-Check-1-Clone">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Software1-Knowledge-Check-1-Clone&theme=radical" />
      </a>
-     <a href="https://github.com/Levi-B4/CL-Knowledge-Check-2">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=CL-Knowledge-Check-2&theme=radical" />
+     <a href="https://github.com/Levi-B4/RTS-Game-Handler">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=radical" />
      </a> 
 </p
