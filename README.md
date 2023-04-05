@@ -42,4 +42,5 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=aura" />
      </a> 
 </p>
+
 ![snake animation](https://github.com/Levi-B4/Levi-B4/blob/output/github-contribution-grid-snake2.svg)
