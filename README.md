@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and app developement
+I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and app development
 - 🔭 I’m currently working on [Client-Organizer](https://github.com/Levi-B4/Client-Organizer) and [Hyperhedrons](https://github.com/Hyperhydras/Hyperhedrons)
 - 🌱 I’m currently learning figma, JavaScript, and react three fiber.js
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
