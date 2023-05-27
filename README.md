@@ -16,12 +16,12 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
   </a>
 </p>
 -->
-<!---
+
 <div align="center">
   <a href="https://github.com/Levi-B4/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-B4&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=radical"/>
   </a>
--->
+
 <div align="center"><!---delete this once Linkedin is addded-->
   <a href="https://github.com/Levi-B4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Levi-B4&show_icons=true&include_all_commits=true&count_private=true&theme=aura" alt="Levi's github stats"/></center>
