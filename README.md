@@ -35,8 +35,8 @@ I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in soft
      <a href="https://github.com/Levi-B4/DirectoryOrganizer">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=DirectoryOrganizer&theme=aura" />
      </a>
-     <a href="https://github.com/Levi-B4/Simple-Calculator">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Simple-Calculator&theme=aura" />
+     <a href="https://github.com/Levi-B4/https://github.com/Levi-B4/Framer">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Framer&theme=aura" />
      </a>
      <a href="https://github.com/Levi-B4/RTS-Game-Handler">
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=aura" />
