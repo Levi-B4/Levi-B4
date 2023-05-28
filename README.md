@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and app development
-- 🔭 I’m currently working on [Flipbook Website]([https://github.com/Levi-B4/Client-Organizer](https://github.com/Levi-B4/Frontend-Mach-Interview-Project))
-- 🌱 I’m currently learning React
+- 🔭 I’m currently working to impliment react into [my personal website](https://Levi-B4.github.io).
+- 🌱 I’m currently learning Vim.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
-- 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: levi44b@gmail.com
+- 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: [levi44b@gmail.com](mailto:levi44b@gmail.com).
 
 <!---
 <p align="center">
