@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and app development
+I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and full stack development
 - 🔭 I’m currently working to impliment react into [my personal website](https://Levi-B4.github.io).
 - 🌱 I’m currently improving upon my C# (with Code Louisville) and learning Java.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
