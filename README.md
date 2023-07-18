@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm [Levi](https://Levi-B4.github.io), a passionate developer interested in software and full stack development
-- 🔭 I’m currently working to impliment react into [my personal website](https://Levi-B4.github.io).
-- 🌱 I’m currently improving upon my C# (with Code Louisville) and learning Java.
+I'm Levi, a passionate developer interested in software and full stack development
+- 🔭 I’m currently working on my final project for Code Louisville.
+- 🌱 I’m currently finishing software development in .NET with Code Louisville and learning Java.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: [levi44b@gmail.com](mailto:levi44b@gmail.com).
 
