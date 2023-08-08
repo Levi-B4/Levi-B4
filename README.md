@@ -44,6 +44,6 @@ I'm Levi, a passionate developer interested in software and full stack developme
 </p>
 
 <!---
-still need to debub snake animation, very low priority but its cute
+still need to debug snake animation, very low priority but its cute
 --->
 ![snake animation](https://github.com/Levi-B4/Levi-B4/blob/output/github-contribution-grid-snake2.svg)
