@@ -19,28 +19,14 @@ I'm Levi, a passionate developer interested in software and full stack developme
   <a href="https://github.com/Levi-B4/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Levi-B4&layout=compact&langs_count=8&exclude_repo=refactored-telegram&theme=radical"/>
   </a>
-
-<div align="center"><!---delete this once Linkedin is addded-->
+<!--- Displays Github Stats
+<div align="center">delete this once Linkedin is addded
   <a href="https://github.com/Levi-B4/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Levi-B4&show_icons=true&include_all_commits=true&count_private=true&theme=aura" alt="Levi's github stats"/></center>
   </a>
 </div>
-
-<p align="center">
-     <a href="https://github.com/Levi-B4/Client-Organizer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Client-Organizer&theme=aura" />
-     </a>
-     <a href="https://github.com/Levi-B4/DirectoryOrganizer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=DirectoryOrganizer&theme=aura" />
-     </a>
-     <a href="https://github.com/Levi-B4/Framer">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=Framer&theme=aura" />
-     </a>
-     <a href="https://github.com/Levi-B4/RTS-Game-Handler">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Levi-B4&repo=RTS-Game-Handler&theme=aura" />
-     </a> 
-</p>
-
+-->
+  
 <!---
 still need to debug snake animation, very low priority but its cute
 
