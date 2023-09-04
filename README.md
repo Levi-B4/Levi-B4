@@ -1,21 +1,19 @@
 ### Hi there 👋
 
 I'm Levi, a passionate developer interested in software and full stack development
-- 🔭 I’m currently working on my Software Development final project for Code Louisville and creating hotkeys with ahk.
+- 🔭 Check out my latest [website](https://levi-b4.github.io/noteBoard/index.html).
 - 🌱 I’m currently starting my introduction to C++.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: [levi44b@gmail.com](mailto:levi44b@gmail.com).
 
-<!---
 <p align="center">
-  <a href="https://www.linkedin.com/in/*entername*/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/*entername/"/>
+  <a href="https://www.linkedin.com/in/levib4/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levib4/"/>
   </a>
-  <a href="https://www.linkedin.com/in/*entername*/">
+  <a href="https://www.linkedin.com/in/levib4/">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Levi-B4&count_bg=%236BE3D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/>
   </a>
 </p>
--->
 
 <div align="center">
   <a href="https://github.com/Levi-B4/github-readme-stats">
