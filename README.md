@@ -3,6 +3,7 @@
 I'm Levi, a passionate developer interested in software and full stack development
 - 🔭 Check out my latest [website](https://levi-b4.github.io/noteBoard/index.html).
 - 🌱 I’m currently learning C++.
+- 💻 I'm also working on a back-end for my [Note Board Website](https://levi-b4.github.io/NoteBoardWebsite/)
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: [levi44b@gmail.com](mailto:levi44b@gmail.com).
 
