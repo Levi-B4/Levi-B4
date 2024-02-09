@@ -2,8 +2,7 @@
 
 I'm Levi, a passionate developer interested in software and full stack development
 - 🔭 Check out my latest [Work](https://github.com/Levi-B4/DataStructures).
-- 🌱 I’m currently learning Data Structures.
-<!--- - 💻 I'm also working on a -->
+- 🌱 I’m currently learning Data Structures.<!--- - 💻 I'm also working on a -->
 - 👯 I’m willing to work on free-lance projects & am always interested in working on open source projects.
 - 💬 Ask me about anything [here](https://github.com/Levi-B4/Levi-B4/issues) or via email: [levi44b@gmail.com](mailto:levi44b@gmail.com).
 
